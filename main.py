@@ -3,8 +3,11 @@ import os
 from typing import Any
 
 import requests
+from dotenv import load_dotenv
 
-token = "secret_DW43FBbmZ802ktq7wYPgId3Mw9vtHwfwE08iE85x2EI"
+load_dotenv()
+
+token = os.getenv('NOTION_BEARER_TOKEN')
 
 headers = {
     "Authorization": "Bearer " + token,

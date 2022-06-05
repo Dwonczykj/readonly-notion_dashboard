@@ -1,6 +1,6 @@
 *.json
 
-*.env*
+*.env
 *.log*
 *.tinydb.json
 *.xlsx
