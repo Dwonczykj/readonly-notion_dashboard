@@ -45,6 +45,8 @@ def my_notion():
     query = ""
     filter = ""
 
+    # TODO: Turn the below page_names into Tiles in the index.html that contain Title, Image, Properties, Last Editted
+    # TODO: Add a search input field that debounce searches notion for the current input string and loads pages (max 10) in the results
     (data, page_names) = getRecentPages(
         payload={
             **notion_request_payload,

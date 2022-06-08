@@ -1,0 +1,20 @@
+autopep8 @ file:///home/conda/feedstock_root/build_artifacts/autopep8_1635267974115/work
+bidict @ file:///home/conda/feedstock_root/build_artifacts/bidict_1635030944886/work
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+click @ file:///Users/runner/miniforge3/conda-bld/click_1645238326367/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1644887820294/work
+Flask-SocketIO @ file:///home/conda/feedstock_root/build_artifacts/flask-socketio_1627873847317/work
+idna==3.3
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1645182785493/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1645179362947/work
+pycodestyle @ file:///home/conda/feedstock_root/build_artifacts/pycodestyle_1633982426610/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1648162816482/work
+python-engineio @ file:///home/conda/feedstock_root/build_artifacts/python-engineio_1641923392406/work
+python-socketio @ file:///home/conda/feedstock_root/build_artifacts/python-socketio_1644943074649/work
+requests==2.27.1
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+urllib3==1.26.9
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1644332431572/work
